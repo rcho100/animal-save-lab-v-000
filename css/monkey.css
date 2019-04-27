@@ -10,10 +10,10 @@ html {
 
 /* Write your solution here */
 
-/*@media only screen and (min-width: 406px), (max-width: 1170px) {
+@media only screen and (min-width: 1170px), (max-width: 406px) {
   #monkey {
     position: absolute;
-    top: 200px;
+    top: 00px;
     right: 120px;
   }
-}*/
+}
