@@ -14,5 +14,6 @@ html {
   #monkey {
     position: absolute;
     top: 200px;
+    right: 120px;
   }
 }
