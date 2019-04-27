@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (min-width: 1196){
+@media only screen and (min-width: 900){
   div #bear {
     background: red;
     /*position: absolute;
